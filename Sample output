@@ -1,0 +1,16 @@
+Enter number of files/directories: 5
+Enter file/directory names:
+Root
+Docs
+Images
+Notes
+Report
+Enter adjacency matrix (5 x 5):
+Enter starting node index (0 to 4): 0
+Enter file name to search: Report
+
+BFS Traversal: Root Docs Images Notes Report
+BFS Search: File Found
+
+DFS Traversal: Root Docs Notes Report Images
+DFS Search: File Found
